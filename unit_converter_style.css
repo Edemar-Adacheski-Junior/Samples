@@ -1,0 +1,17 @@
+body {
+  background-color:midnightblue;
+  padding: 20px;
+}
+h1{
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px;
+}
+p {
+  background-color: darkgray;
+  color: darkblue;
+  border-radius: 5px;
+  width: 250px;
+  height: 40px;
+  padding: 5px;
+}
